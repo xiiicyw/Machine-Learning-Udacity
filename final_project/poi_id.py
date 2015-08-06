@@ -150,7 +150,7 @@ if __name__ == '__main__':
     }
     '''
 
-    # Uncomment the following lines to run linear decision tree classifier.
+    # Uncomment the following lines to run decision tree classifier.
     '''
     # Decision Trees
     clf = DecisionTreeClassifier()
@@ -169,7 +169,7 @@ if __name__ == '__main__':
     }
     '''
 
-    # Uncomment the following lines to run linear Gaussian Naive Bayes classifier.
+    # Uncomment the following lines to run Gaussian Naive Bayes classifier.
     '''
     # Naive Bayes
     clf = GaussianNB()
